@@ -1,0 +1,7 @@
+--only-binary=:all:
+dash==2.18.0
+plotly==5.24.1
+pandas==2.3.3
+numpy==2.3.2
+dash-bootstrap-components
+gunicorn==21.2.0
